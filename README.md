@@ -102,7 +102,7 @@ The application allows users to provide customer information and predict churn p
 
 ### Application Screenshot
 
-https://github.com/ankitsingh12world/Customer-Churn-Prediction_/blob/a5f9b8176a22685b095604caa5208b5ffb70f4ef/app_screenshot.png
+![Customer Churn App](app_screenshot.png)
 
 ---
 
